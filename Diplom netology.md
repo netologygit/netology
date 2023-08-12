@@ -59,6 +59,14 @@ Cоздана ВМ, на которой развернут Elasticsearch 192.168
 
 ![2](https://github.com/netologygit/netology/assets/123411071/2a0fa659-77bb-4aa1-9dc5-11862a07a1ad)
 
+![1](https://github.com/netologygit/netology/assets/123411071/2afc65a1-4feb-4e6b-9172-228b6f185da7)
+
+![2](https://github.com/netologygit/netology/assets/123411071/9386ecdc-ab27-4007-b449-1cb7aa46787f)
+
+
+![3](https://github.com/netologygit/netology/assets/123411071/4282bebd-ae4b-45e0-93b9-4fdbc27e023a)
+
+
 
 
 ![1](https://github.com/netologygit/netology/assets/123411071/1439195b-b024-436e-8f11-be6f9dfd0779)

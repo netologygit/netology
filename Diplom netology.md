@@ -55,7 +55,11 @@ Cоздана ВМ, на которой развернут Elasticsearch 192.168
 
 Создана ВМ, на которой развернута  Kibana  192.168.2.16, сконфигурировано соединение с Elasticsearch.
 
-![1](https://github.com/netologygit/netology/assets/123411071/1a4890f3-f095-4927-83a8-ae7c00593e91)
+![1](https://github.com/netologygit/netology/assets/123411071/b7ebc6ff-131c-41da-a93d-833055836a71)
+
+![2](https://github.com/netologygit/netology/assets/123411071/2a0fa659-77bb-4aa1-9dc5-11862a07a1ad)
+
+
 
 ![1](https://github.com/netologygit/netology/assets/123411071/1439195b-b024-436e-8f11-be6f9dfd0779)
 
